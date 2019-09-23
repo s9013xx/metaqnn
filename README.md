@@ -16,7 +16,8 @@ If our software or paper helps your research or project, please cite us using:
       year={2017}
     }
     
-Joe add inference time constrain mechanism from this paper **[Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search](https://arxiv.org/pdf/1901.11211.pdf)** 
+Joe add inference time constrain mechanism from this paper **[Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search](https://arxiv.org/pdf/1901.11211.pdf)** .
+
 If my software helps your research or project, please cite us using:
 
     @article{joe2019implement,
